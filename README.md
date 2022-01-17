@@ -10,7 +10,7 @@ https://youtu.be/094y1Z2wpJg
 
 # How to run
 
-First, check the code to determine which numbers you would like to see the turn number for. Default is set to > 200.
+First, check the code to determine which numbers you would like to see the step number for. Default is set to > 200.
 ```cpp        
 if (step > 200) {//Set the number in the if statement to the required number of steps you want to be printed out (because printing takes forever)
     cout << "(" << i << ") " << step << endl;
