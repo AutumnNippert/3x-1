@@ -14,7 +14,8 @@ First, check the code to determine which numbers you would like to see the turn 
 ```cpp        
 if (step > 200) {//Set the number in the if statement to the required number of steps you want to be printed out (because printing takes forever)
     cout << "(" << i << ") " << step << endl;
-}```
+}
+```
 
 In the command prompt inside the directory, type
 ```
